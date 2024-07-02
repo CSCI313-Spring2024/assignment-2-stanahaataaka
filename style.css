@@ -1,0 +1,40 @@
+.accent_bg {
+  background-color: pink;
+}
+body {
+  padding-top: 56px;
+}
+#nav {
+  background-color: silver;
+}
+#logo {
+  border-radius: 50%;
+}
+#about_me {
+  background-color: rgb(45, 45, 45);
+  color: silver;
+}
+#profile_photo {
+  border-radius: 20px;
+}
+#web {
+  color: pink;
+}
+#movies {
+  background-color: rgb(50, 50, 50);
+  color: silver;
+}
+#hobbies {
+  background-color: aliceblue;
+  color: black;
+}
+#GSMBPhoto {
+  float: left;
+  max-width: 33.3334%;
+  max-height: auto;
+}
+#MaraPhoto {
+  float: right;
+  max-width: 66.6666%;
+  max-height: auto;
+}
